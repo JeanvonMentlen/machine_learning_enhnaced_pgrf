@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Machine Learning Enhanced PGRF Simulation
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jean-Marc
+    family-names: von Mentlen
+    email: jean-marc.vonmentlen@ife.ee.ethz.ch
+    affiliation: ETH Zürich
+    orcid: 'https://orcid.org/0000-0002-7001-7591'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/JeanvonMentlen/machine_learning_enhnaced_pgrf
+    description: GitHub Link
+repository-code: >-
+  https://github.com/JeanvonMentlen/machine_learning_enhnaced_pgrf
+license: MIT
+date-released: '2024-12-19'
